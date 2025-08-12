@@ -27,10 +27,12 @@
 
 ## 📅 Progress Log
 
-| Date       | Problems Solved | Topic(s)       |
-|------------|-----------------|----------------|
-| 2025-08-12 | 4               | Arrays, Strings |
-
+| Date       | Problems Solved |                                 Question(s)                                                      |
+|------------|-----------------|--------------------------------------------------------------------------------------------------|                                                                                  |                                                                                                                                 |
+| 2025-08-11 |        1        | Two Sum (https://leetcode.com/problems/two-sum/description/)                                     |
+| 2025-08-12 |        3        | Best Time To Buy And Sell Stock (https://leetcode.com/problems/best-time-to-buy-and-sell-stock/),|
+                               | Contains Duplicate (https://leetcode.com/problems/contains-duplicate/),                          |
+                               | Product Of Array Except Self (https://leetcode.com/problems/product-of-array-except-self/)       |
 ---
 
 ## ⭐ Support
