@@ -31,9 +31,11 @@
 |------------|-----------------|--------------------------------------------------------------------------------------------------|                                                                                  |                                                                                                                                 |
 | 2025-08-11 |        1        | Two Sum (https://leetcode.com/problems/two-sum/description/)                                     |
 | 2025-08-12 |        3        | Best Time To Buy And Sell Stock (https://leetcode.com/problems/best-time-to-buy-and-sell-stock/),|
-                               | Contains Duplicate (https://leetcode.com/problems/contains-duplicate/),                          |
-                               | Product Of Array Except Self (https://leetcode.com/problems/product-of-array-except-self/)       |
----
+|                              | Contains Duplicate (https://leetcode.com/problems/contains-duplicate/),                          |
+|                              | Product Of Array Except Self (https://leetcode.com/problems/product-of-array-except-self/)       |
+|2025-08-13  |        3        |Valid Anagram (https://leetcode.com/problems/valid-anagram/), Maximum Subarray                    |
+|                              | (https://leetcode.com/problems/maximum-subarray/description/),Merged Intervals                   |
+|                              | (https://leetcode.com/problems/merge-intervals/)
 
 ## ⭐ Support
 If you like this repo, drop a 🌟 — it keeps the grind going!
