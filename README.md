@@ -1,4 +1,4 @@
-# 📚 DSA Practice
+ # 📚 DSA Practice
 
 "My personal collection of Data Structures & Algorithms solutions — sharpening problem-solving skills one question at a time."
 
@@ -33,9 +33,13 @@
 | 2025-08-12 |        3        | Best Time To Buy And Sell Stock (https://leetcode.com/problems/best-time-to-buy-and-sell-stock/),|
 |                              | Contains Duplicate (https://leetcode.com/problems/contains-duplicate/),                          |
 |                              | Product Of Array Except Self (https://leetcode.com/problems/product-of-array-except-self/)       |
-|2025-08-13  |        3        |Valid Anagram (https://leetcode.com/problems/valid-anagram/), Maximum Subarray                    |
+|2025-08-13  |        3        | Valid Anagram (https://leetcode.com/problems/valid-anagram/), Maximum Subarray                   |
 |                              | (https://leetcode.com/problems/maximum-subarray/description/),Merged Intervals                   |
-|                              | (https://leetcode.com/problems/merge-intervals/)
+|                              | (https://leetcode.com/problems/merge-intervals/)                                                 |
+|2025-08-14  |        3        | Fruits Into Basket (https://leetcode.com/problems/fruit-into-baskets/), Intersection Of Two      |
+|            |                 | Arrays(https://leetcode.com/problems/intersection-of-two-arrays/), Longest Substring Without     |
+|            |                 |RepeatingCharacters(https://leetcode.com/problems/longest-substring-without-repeating-characters/)|
+|            |                 | 
 
 ## ⭐ Support
 If you like this repo, drop a 🌟 — it keeps the grind going!
