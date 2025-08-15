@@ -38,8 +38,10 @@
 |                              | (https://leetcode.com/problems/merge-intervals/)                                                 |
 |2025-08-14  |        3        | Fruits Into Basket (https://leetcode.com/problems/fruit-into-baskets/), Intersection Of Two      |
 |            |                 | Arrays(https://leetcode.com/problems/intersection-of-two-arrays/), Longest Substring Without     |
-|            |                 |RepeatingCharacters(https://leetcode.com/problems/longest-substring-without-repeating-characters/)|
-|            |                 | 
+|                              |RepeatingCharacters(https://leetcode.com/problems/longest-substring-without-repeating-characters/)|
+|2025-08-15  |        2        | Longest Nice Subarray(https://leetcode.com/problems/longest-nice-subarray/),                     |
+|            |                 | Minimum Recolors To Get K Consecutive Black Blocks                                               |
+|            |                 | (https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/)              |
 
 ## ⭐ Support
 If you like this repo, drop a 🌟 — it keeps the grind going!
