@@ -42,6 +42,9 @@
 |2025-08-15  |        2        | Longest Nice Subarray(https://leetcode.com/problems/longest-nice-subarray/),                     |
 |            |                 | Minimum Recolors To Get K Consecutive Black Blocks                                               |
 |            |                 | (https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/)              |
+|2025-08-19  |        2        | Next Greater Element 1(https://leetcode.com/problems/next-greater-element-i/),                   |
+|            |                 | Final Prices With A Special Discount In A Shop                                                   |
+|            |                 |(https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/description/)       |
 
 ## ⭐ Support
 If you like this repo, drop a 🌟 — it keeps the grind going!
