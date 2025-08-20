@@ -44,7 +44,9 @@
 |            |                 | (https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/)              |
 |2025-08-19  |        2        | Next Greater Element 1(https://leetcode.com/problems/next-greater-element-i/),                   |
 |            |                 | Final Prices With A Special Discount In A Shop                                                   |
-|            |                 |(https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/description/)       |
+|            |                 |(https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/description/)       |  
+|2025-08-20  |        2        | Online Stock Span(https://leetcode.com/problems/online-stock-span/description/),                 |
+|            |                 | Daily Temperatures(https://leetcode.com/problems/daily-temperatures/)                            |
 
 ## ⭐ Support
 If you like this repo, drop a 🌟 — it keeps the grind going!
