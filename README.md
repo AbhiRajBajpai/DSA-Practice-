@@ -47,6 +47,8 @@
 |            |                 |(https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/description/)       |  
 |2025-08-20  |        2        | Online Stock Span(https://leetcode.com/problems/online-stock-span/description/),                 |
 |            |                 | Daily Temperatures(https://leetcode.com/problems/daily-temperatures/)                            |
+|2025-08-21  |        1        | Largest Rectangle In Histogram (https://leetcode.com/problems/largest-rectangle-in-histogram/)   | 
+
 
 ## ⭐ Support
 If you like this repo, drop a 🌟 — it keeps the grind going!
