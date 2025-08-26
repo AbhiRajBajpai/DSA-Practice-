@@ -48,9 +48,10 @@
 |2025-08-20  |        2        | Online Stock Span(https://leetcode.com/problems/online-stock-span/description/),                 |
 |            |                 | Daily Temperatures(https://leetcode.com/problems/daily-temperatures/)                            |
 |2025-08-21  |        1        | Largest Rectangle In Histogram (https://leetcode.com/problems/largest-rectangle-in-histogram/)   |
-|2025-08-25  |        2        | Reverse Linked List(https://leetcode.com/problems/reverse-linked-list/),
-|            |                 | Remove Nth Node From End Of Linked List
-|            |                 | (https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)                                   | 
+|2025-08-25  |        2        | Reverse Linked List(https://leetcode.com/problems/reverse-linked-list/),                         |
+|            |                 | Remove Nth Node From End Of Linked List                                                          | 
+|            |                 | (https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)                    |   
+|2025-08-26  |        1        | Sort List(https://leetcode.com/problems/sort-list/)                                              |
 
 
 ## ⭐ Support
