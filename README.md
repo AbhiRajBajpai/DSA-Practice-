@@ -52,6 +52,12 @@
 |            |                 | Remove Nth Node From End Of Linked List                                                          | 
 |            |                 | (https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)                    |   
 |2025-08-26  |        1        | Sort List(https://leetcode.com/problems/sort-list/)                                              |
+|2025-08-27  |        4        | Rotate List(https://leetcode.com/problems/rotate-list/),                                         | 
+|            |                 | Remove Duplicates From Sorted List                                                               |  
+|            |                 | (https://leetcode.com/problems/remove-duplicates-from-sorted-list/),                             |
+|            |                 | Remove Duplicates From Sorted List 2                                                             |
+|            |                 | (https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/),                          |
+|            |                 | Reversed Linked List 2(https://leetcode.com/problems/reverse-linked-list-ii/)                    |
 
 
 ## ⭐ Support
