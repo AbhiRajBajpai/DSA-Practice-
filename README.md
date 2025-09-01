@@ -5,9 +5,9 @@
 ---
 
 ## 🏆 Scoreboard
-- **Total Problems Solved:** 22  
-- **Current Streak:** 11 Days  
-- **Longest Streak:** 11 Days  
+- **Total Problems Solved:** 23  
+- **Current Streak:** 13 Days  
+- **Longest Streak:** 13 Days  
 
 ---
 
