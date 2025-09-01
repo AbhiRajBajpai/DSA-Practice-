@@ -80,6 +80,16 @@
 - ✅ [Remove Duplicates From Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)
 - ✅ [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)
 
+### 🗓 Day 12 — 2025-08-28
+- ✅ [Remove Duplicates From Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
+- ✅ [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)
+- ✅ [Remove Duplicates From Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)
+- ✅ [Rotate List](https://leetcode.com/problems/rotate-list/)
+
+### 🗓 Day 13 — 2025-08-29
+- ✅ [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
+
+
 ---
 
 ## ⭐ Support
