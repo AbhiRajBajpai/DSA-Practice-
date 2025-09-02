@@ -5,9 +5,9 @@
 ---
 
 ## 🏆 Scoreboard
-- **Total Problems Solved:** 23  
-- **Current Streak:** 13 Days  
-- **Longest Streak:** 13 Days  
+- **Total Problems Solved:** 31 
+- **Current Streak:** 14 Days  
+- **Longest Streak:** 14 Days  
 
 ---
 
@@ -88,6 +88,11 @@
 
 ### 🗓 Day 13 — 2025-08-29
 - ✅ [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
+
+### 🗓 Day 14 — 2025-09-02
+- ✅ [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)  
+- ✅ [Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/)  
+
 
 
 ---
