@@ -5,9 +5,9 @@
 ---
 
 ## 🏆 Scoreboard
-- **Total Problems Solved:** 31 
-- **Current Streak:** 14 Days  
-- **Longest Streak:** 14 Days  
+- **Total Problems Solved:** 32
+- **Current Streak:** 15 Days  
+- **Longest Streak:** 15 Days  
 
 ---
 
@@ -91,7 +91,11 @@
 
 ### 🗓 Day 14 — 2025-09-02
 - ✅ [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)  
-- ✅ [Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/)  
+- ✅ [Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/)
+
+### 🗓 Day 15 — 2025-09-03
+- ✅ [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)  
+
 
 
 
