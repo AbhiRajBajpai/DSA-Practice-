@@ -5,10 +5,9 @@
 ---
 
 ## 🏆 Scoreboard
-- **Total Problems Solved:** 32
-- **Current Streak:** 15 Days  
-- **Longest Streak:** 15 Days  
 
+- **Total Problems Solved:** 35
+  
 ---
 
 ## 📌 What’s Inside?
@@ -94,7 +93,13 @@
 - ✅ [Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/)
 
 ### 🗓 Day 15 — 2025-09-03
-- ✅ [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)  
+- ✅ [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)
+
+### 🗓 Day 16 — 2025-09-03
+- ✅ [Traversal in Doubly Linked List](https://www.geeksforgeeks.org/doubly-linked-list/)  
+- ✅ [Reverse a Doubly Linked List](https://www.geeksforgeeks.org/reverse-a-doubly-linked-list/)  
+- ✅ [Insertion in Doubly Linked List](https://www.geeksforgeeks.org/doubly-linked-list-insertion-at-given-position/)  
+  
 
 
 
