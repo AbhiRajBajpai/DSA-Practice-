@@ -6,7 +6,7 @@
 
 ## 🏆 Scoreboard
 
-- **Total Problems Solved:** 35
+- **Total Problems Solved:** 38
   
 ---
 
@@ -98,7 +98,13 @@
 ### 🗓 Day 16 — 2025-09-03
 - ✅ [Traversal in Doubly Linked List](https://www.geeksforgeeks.org/doubly-linked-list/)  
 - ✅ [Reverse a Doubly Linked List](https://www.geeksforgeeks.org/reverse-a-doubly-linked-list/)  
-- ✅ [Insertion in Doubly Linked List](https://www.geeksforgeeks.org/doubly-linked-list-insertion-at-given-position/)  
+- ✅ [Insertion in Doubly Linked List](https://www.geeksforgeeks.org/doubly-linked-list-insertion-at-given-position/)
+
+### 🗓 Day 17 — 2025-09-05
+- ✅ [Find Pairs with Given Sum in Doubly Linked List](https://www.geeksforgeeks.org/find-pairs-with-given-sum-in-doubly-linked-list/)  
+- ✅ [Insert in Sorted Way in a Sorted Doubly Linked List](https://www.geeksforgeeks.org/insert-in-sorted-way-in-a-sorted-doubly-linked-list/)  
+- ✅ [Rotate Doubly Linked List](https://www.geeksforgeeks.org/rotate-doubly-linked-list-by-p-nodes/)  
+
   
 
 
