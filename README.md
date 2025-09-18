@@ -6,7 +6,7 @@
 
 ## 🏆 Scoreboard
 
-- **Total Problems Solved:** 38
+- **Total Problems Solved:** 40
   
 ---
 
@@ -105,6 +105,9 @@
 - ✅ [Insert in Sorted Way in a Sorted Doubly Linked List](https://www.geeksforgeeks.org/insert-in-sorted-way-in-a-sorted-doubly-linked-list/)  
 - ✅ [Rotate Doubly Linked List](https://www.geeksforgeeks.org/rotate-doubly-linked-list-by-p-nodes/)  
 
+### 🗓 Day 18 — 2025-09-15
+- ✅ [Delete All Occurrences of a Given Key in Linked List](https://www.geeksforgeeks.org/delete-occurrences-given-key-linked-list/)
+- ✅ [Intersection Point of Two Linked Lists (Y-Shaped Linked List)](https://www.geeksforgeeks.org/write-a-function-to-get-the-intersection-point-of-two-linked-lists/)
   
 
 
