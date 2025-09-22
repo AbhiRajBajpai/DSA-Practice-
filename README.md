@@ -6,7 +6,7 @@
 
 ## 🏆 Scoreboard
 
-- **Total Problems Solved:** 40
+- **Total Problems Solved:** 42
   
 ---
 
