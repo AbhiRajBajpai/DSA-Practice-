@@ -95,7 +95,7 @@
 ### 🗓 Day 15 — 2025-09-03
 - ✅ [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)
 
-### 🗓 Day 16 — 2025-09-03
+### 🗓 Day 16 — 2025-09-04
 - ✅ [Traversal in Doubly Linked List](https://www.geeksforgeeks.org/doubly-linked-list/)  
 - ✅ [Reverse a Doubly Linked List](https://www.geeksforgeeks.org/reverse-a-doubly-linked-list/)  
 - ✅ [Insertion in Doubly Linked List](https://www.geeksforgeeks.org/doubly-linked-list-insertion-at-given-position/)
@@ -108,6 +108,11 @@
 ### 🗓 Day 18 — 2025-09-15
 - ✅ [Delete All Occurrences of a Given Key in Linked List](https://www.geeksforgeeks.org/delete-occurrences-given-key-linked-list/)
 - ✅ [Intersection Point of Two Linked Lists (Y-Shaped Linked List)](https://www.geeksforgeeks.org/write-a-function-to-get-the-intersection-point-of-two-linked-lists/)
+
+### 🗓 Day 19 — 2025-09-22
+- ✅ [Josephus Problem](https://www.geeksforgeeks.org/josephus-problem/)
+- ✅ [Split a Linked List into Two Halves](https://www.geeksforgeeks.org/split-a-circular-linked-list-into-two-halves/)
+
   
 
 
