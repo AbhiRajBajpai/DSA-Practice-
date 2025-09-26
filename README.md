@@ -6,7 +6,7 @@
 
 ## 🏆 Scoreboard
 
-- **Total Problems Solved:** 42
+- **Total Problems Solved:** 44
   
 ---
 
@@ -113,8 +113,11 @@
 - ✅ [Josephus Problem](https://www.geeksforgeeks.org/josephus-problem/)
 - ✅ [Split a Linked List into Two Halves](https://www.geeksforgeeks.org/split-a-circular-linked-list-into-two-halves/)
 
-  
+### 🗓 Day 21 — 2025-09-18
+- ✅ [Remove All Adjacent Duplicates in String II (LeetCode 1209)](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/)
+- ✅ [Remove All Adjacent Duplicates In String (LeetCode 1047)](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)
 
+  
 
 
 
