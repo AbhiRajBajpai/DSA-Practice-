@@ -117,6 +117,9 @@
 - ✅ [Remove All Adjacent Duplicates in String II (LeetCode 1209)](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/)
 - ✅ [Remove All Adjacent Duplicates In String (LeetCode 1047)](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)
 
+### 🗓 Day 21 — 2025-10-01
+- ✅ [Permutations](https://leetcode.com/problems/permutations/)
+
   
 
 
