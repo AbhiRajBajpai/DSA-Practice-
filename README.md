@@ -6,7 +6,7 @@
 
 ## 🏆 Scoreboard
 
-- **Total Problems Solved:** 44
+- **Total Problems Solved:** 46
   
 ---
 
@@ -119,6 +119,10 @@
 
 ### 🗓 Day 21 — 2025-10-01
 - ✅ [Permutations](https://leetcode.com/problems/permutations/)
+
+### 🗓 Day 22 — 2025-10-02
+- ✅ [N-Queens (LeetCode 51)](https://leetcode.com/problems/n-queens/)
+
 
   
 
