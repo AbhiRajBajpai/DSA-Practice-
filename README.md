@@ -6,7 +6,7 @@
 
 ## 🏆 Scoreboard
 
-- **Total Problems Solved:** 46
+- **Total Problems Solved:** 49
   
 ---
 
@@ -123,6 +123,10 @@
 ### 🗓 Day 22 — 2025-10-02
 - ✅ [N-Queens (LeetCode 51)](https://leetcode.com/problems/n-queens/)
 
+### 🗓 Day 23 — 2025-10-03
+- ✅ [Unique Paths (LeetCode 62)](https://leetcode.com/problems/unique-paths/)
+- ✅ [Unique Paths II (LeetCode 63)](https://leetcode.com/problems/unique-paths-ii/)
+- ✅ [Word Search (LeetCode 79)](https://leetcode.com/problems/word-search/)
 
   
 
