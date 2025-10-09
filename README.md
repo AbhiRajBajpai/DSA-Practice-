@@ -6,7 +6,7 @@
 
 ## 🏆 Scoreboard
 
-- **Total Problems Solved:** 49
+- **Total Problems Solved:** 53
   
 ---
 
@@ -128,6 +128,11 @@
 - ✅ [Unique Paths II (LeetCode 63)](https://leetcode.com/problems/unique-paths-ii/)
 - ✅ [Word Search (LeetCode 79)](https://leetcode.com/problems/word-search/)
 
+### 🗓 Day 24 — 2025-10-04
+- ✅ [Rat in a Maze (GFG)](https://www.geeksforgeeks.org/rat-in-a-maze-backtracking-2/)
+- ✅ [Count Inversions (LeetCode 493)](https://leetcode.com/problems/reverse-pairs/)
+- ✅ [Majority Element (LeetCode 169)](https://leetcode.com/problems/majority-element/)
+- ✅ [Merge Sort to Sort an Array of Strings (GFG)](https://www.geeksforgeeks.org/merge-sort-for-strings/)
   
 
 
