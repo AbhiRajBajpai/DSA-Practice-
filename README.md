@@ -6,7 +6,7 @@
 
 ## 🏆 Scoreboard
 
-- **Total Problems Solved:** 53
+- **Total Problems Solved:** 56
   
 ---
 
@@ -133,6 +133,12 @@
 - ✅ [Count Inversions (LeetCode 493)](https://leetcode.com/problems/reverse-pairs/)
 - ✅ [Majority Element (LeetCode 169)](https://leetcode.com/problems/majority-element/)
 - ✅ [Merge Sort to Sort an Array of Strings (GFG)](https://www.geeksforgeeks.org/merge-sort-for-strings/)
+
+### 🗓 Day 25 — 2025-10-11
+- ✅ [Knight’s Tour (GFG)](https://www.geeksforgeeks.org/problems/knight-tour-problem/0)
+- ✅ [Container With Most Water (LeetCode 11)](https://leetcode.com/problems/container-with-most-water/)
+- ✅ [Letter Combinations of a Phone Number (LeetCode 17)](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
+
   
 
 
