@@ -6,7 +6,7 @@
 
 ## 🏆 Scoreboard
 
-- **Total Problems Solved:** 56
+- **Total Problems Solved:** 69
   
 ---
 
@@ -138,6 +138,34 @@
 - ✅ [Knight’s Tour (GFG)](https://www.geeksforgeeks.org/problems/knight-tour-problem/0)
 - ✅ [Container With Most Water (LeetCode 11)](https://leetcode.com/problems/container-with-most-water/)
 - ✅ [Letter Combinations of a Phone Number (LeetCode 17)](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
+
+### 🗓 Day 26 — 2025-10-12
+- ✅ [Stickler Thief (GFG)](https://www.geeksforgeeks.org/problems/stickler-theif-1587115621/1)
+
+### 🗓 Day 27 — 2025-10-13
+- ✅ [Question 904 – Fruit Into Baskets (LeetCode)](https://leetcode.com/problems/fruit-into-baskets/)
+- ✅ [Question 2190 – Most Frequent Number Following Key in an Array (LeetCode)](https://leetcode.com/problems/most-frequent-number-following-key-in-an-array/)
+
+### 🗓 Day 28 — 2025-10-14
+- ✅ [Question 2150 – Find All Lonely Numbers in the Array (LeetCode)](https://leetcode.com/problems/find-all-lonely-numbers-in-the-array/)
+- ✅ [Question 896 – Monotonic Array (LeetCode)](https://leetcode.com/problems/monotonic-array/)
+
+### 🗓 Day 29 — 2025-10-15
+- ✅ [Question 503 – Next Greater Element II (LeetCode)](https://leetcode.com/problems/next-greater-element-ii/)
+- ✅ [Question 918 – Maximum Sum Circular Subarray (LeetCode)](https://leetcode.com/problems/maximum-sum-circular-subarray/)
+
+### 🗓 Day 30 — 2025-10-16
+- ✅ [Question 42 – Trapping Rain Water (LeetCode)](https://leetcode.com/problems/trapping-rain-water/)
+- ✅ [Question 11 – Container With Most Water (LeetCode)](https://leetcode.com/problems/container-with-most-water/)
+
+### 🗓 Day 31 — 2025-10-17
+- ✅ [Intersection of Two Arrays with Duplicate Elements (GFG)](https://www.geeksforgeeks.org/find-union-and-intersection-of-two-unsorted-arrays/)
+- ✅ [Longest Subarray with At Most Two Distinct Integers (GFG)](https://www.geeksforgeeks.org/longest-subarray-having-two-distinct-elements/)
+
+### 🗓 Day 32 — 2025-10-18
+- ✅ [Next Greater Element (GFG)](https://www.geeksforgeeks.org/next-greater-element/)
+- ✅ [Longest Substring with Distinct Characters (GFG)](https://www.geeksforgeeks.org/length-of-the-longest-substring-without-repeating-characters/)
+
 
   
 
